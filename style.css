@@ -34,6 +34,7 @@ header {
     padding: 20px 5%;
     background: transparent;
     transition: all ease .45s;
+    background-color: black;
 }
 
 .logo {
